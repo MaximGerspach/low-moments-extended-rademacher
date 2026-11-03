@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this formalisation, please cite the paper it accompanies (see preferred-citation)."
+title: "Low moments of extended Rademacher sums: Lean 4 formalisation"
+type: software
+license: Apache-2.0
+authors:
+  - family-names: Atherfold
+    given-names: Christopher
+  - family-names: Gerspach
+    given-names: Maxim
+  - family-names: Hamdan
+    given-names: Jad
+keywords:
+  - Lean 4
+  - formalisation
+  - random multiplicative functions
+preferred-citation:
+  type: article
+  title: "Low moments of sums of extended Rademacher random multiplicative functions"
+  authors:
+    - family-names: Atherfold
+      given-names: Christopher
+    - family-names: Gerspach
+      given-names: Maxim
+    - family-names: Hamdan
+      given-names: Jad
+  year: 2026
